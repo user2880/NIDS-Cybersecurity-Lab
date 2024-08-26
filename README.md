@@ -15,7 +15,7 @@ Lab Setup
 1. Setting Up VMware Workstation Pro
 Installation: Download and install VMware Workstation Pro from the official site.
 Create Virtual Machines:
-Security Onion: Allocate at least 2 CPUs, 4GB of RAM, and 20GB of disk space.
+Security Onion: Allocate at least 4 CPUs, 16GB of RAM, and 200GB of disk space.
 Kali Linux: Allocate at least 1 CPU, 2GB of RAM, and 10GB of disk space.
 Metasploitable: Allocate at least 1 CPU, 512MB of RAM, and 8GB of disk space.
 2. Network Configuration
